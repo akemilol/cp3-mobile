@@ -1,20 +1,48 @@
-# Expo Router Example
+# 🛒 Maju Mercado – Controle de Estoque
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Aplicativo 📱 desenvolvido em **React Native** com **Expo Router** para o gerenciamento de estoque de produtos de supermercado.
 
-## 🚀 How to use
+---
 
-```sh
-npx create-expo-app -e with-router
-```
+## ✨ Funcionalidades
 
-## Deploy
+- 📝 Cadastro de produtos com:
+  - 🏷️ Nome do produto
+  - 📅 Data de fabricação 
+  - ⏳ Prazo de validade 
+  - 🔢 Quantidade
+  - 🔠🔢 Lote 
+  - 🏷️📷 Código de barras 
+  - 🗺️ Estado de origem
+- 🛠️ Edição e exclusão de produtos cadastrados
+- 📋 Listagem dos produtos em estoque
 
-Deploy on all platforms with Expo Application Services (EAS).
+---
 
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+## 🛠️ Tecnologias Utilizadas
 
-## 📝 Notes
+- React Native
+- Expo Router
+- AsyncStorage
+- Expo Camera
+- react-native-picker-select
+---
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+## ▶️ Como rodar o projeto
+
+1. Instale as dependências:
+   npm install
+
+2. Inicie o projeto:
+   npx expo start
+
+3. Leia o QR Code com o app Expo Go no seu celular ou faça o build do APK.
+---
+
+## 🎥vídeo de demonstração do projeto:  
+https://youtu.be/LmR9gn0iLjY
+---
+
+Desenvolvido por  
+👩 Valéria Conceição dos Santos  
+👩 Mirela Pinheiro Silva Rodrigues
