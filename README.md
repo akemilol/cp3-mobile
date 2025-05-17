@@ -38,11 +38,6 @@ Aplicativo 📱 desenvolvido em **React Native** com **Expo Router** para o gere
 
 3. Leia o QR Code com o app Expo Go no seu celular ou faça o build do APK.
 ---
-
-## 🎥vídeo de demonstração do projeto:  
-https://youtu.be/LmR9gn0iLjY
----
-
 Desenvolvido por  
 👩 Valéria Conceição dos Santos  
 👩 Mirela Pinheiro Silva Rodrigues
